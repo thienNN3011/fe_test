@@ -13,7 +13,7 @@ const mockVehicles: Vehicle[] = [
   {
     id: "1",
     model: "VinFast VF 3",
-    imageUrl: "/vf3.png",
+    imageUrl: "/vf3.jpg",
     batteryLevel: 100,
     estimatedRange: 210,
     pricePerHour: 25,
